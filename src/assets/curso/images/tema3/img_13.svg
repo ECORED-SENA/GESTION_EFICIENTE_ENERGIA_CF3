@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="345" viewBox="0 0 505 345">
+  <g id="Grupo_84304" data-name="Grupo 84304" transform="translate(-284.855 -913)">
+    <text id="Figura_1._Ejemplo_1" data-name="Figura 1. Ejemplo 1" transform="translate(307.855 932)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Figura 1.</tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> Ejemplo 1</tspan></text>
+    <rect id="Rectángulo_31424" data-name="Rectángulo 31424" width="5" height="28" transform="translate(284.855 913)" fill="#76c2dd"/>
+    <g id="Grupo_84272" data-name="Grupo 84272">
+      <rect id="Rectángulo_31423" data-name="Rectángulo 31423" width="505" height="300" transform="translate(284.855 958)" fill="#f3f9ff"/>
+      <g id="Grupo_84232" data-name="Grupo 84232" transform="translate(23.785)">
+        <g id="Grupo_84231" data-name="Grupo 84231" transform="translate(31.226 38.711)">
+          <path id="Trazado_102468" data-name="Trazado 102468" d="M346.5,505.836H655.717V438" transform="translate(5.522 682.742)" fill="none" stroke="#ee6c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Línea_181" data-name="Línea 181" x2="112.367" transform="translate(351.605 1120.326)" fill="none" stroke="#265d99" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Línea_182" data-name="Línea 182" x2="211.416" transform="translate(351.605 984.653)" fill="none" stroke="#76c2dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Trazado_102469" data-name="Trazado 102469" d="M481.5,410.173,580.549,274.5l98.217,136.505Z" transform="translate(-17.111 710.153)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Línea_183" data-name="Línea 183" y2="126.517" transform="translate(403.527 988.815)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Trazado_102470" data-name="Trazado 102470" d="M404.62,280.642h6.26l-3.13-4.26Z" transform="translate(-4.222 709.837)" fill="#afafaf" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Trazado_102471" data-name="Trazado 102471" d="M410.88,430.5h-6.26l3.13,4.26Z" transform="translate(-4.222 683.999)" fill="#afafaf" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectángulo_31867" data-name="Rectángulo 31867" width="47.444" height="9.988" transform="translate(607.542 1037.297) rotate(54.827)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectángulo_31868" data-name="Rectángulo 31868" width="47.444" height="9.988" transform="translate(525.834 1043.883) rotate(125.173)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <circle id="Elipse_4128" data-name="Elipse 4128" cx="11.653" cy="11.653" r="11.653" transform="translate(528.479 1006.294)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectángulo_31869" data-name="Rectángulo 31869" width="47.444" height="9.988" transform="translate(539.3 1115.332)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <circle id="Elipse_4129" data-name="Elipse 4129" cx="11.653" cy="11.653" r="11.653" transform="translate(440.251 973)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Trazado_102481" data-name="Trazado 102481" d="M11.653,0A11.653,11.653,0,1,1,0,11.653,11.653,11.653,0,0,1,11.653,0Z" transform="translate(391.974 1040.42)" fill="#f3f9ff" stroke="#afafaf" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <text id="L1" transform="translate(365.07 1027.711)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-8.922" y="0">L1</tspan></text>
+        <text id="L2" transform="translate(365.07 1165.5)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-8.922" y="0">L2</tspan></text>
+        <text id="A" transform="translate(483.07 1027.711)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-5.383" y="0">A</tspan></text>
+        <text id="Corrientede_fase" data-name="Corrientede fase" transform="translate(496.07 1041.211)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0.489" y="14">Corriente</tspan></text>
+        <text id="Corrientede_línea" data-name="Corrientede línea" transform="translate(456.07 979.211)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0.489" y="14">Corriente</tspan></text>
+        <text id="Voltaje_de_línea" data-name="Voltaje de línea" transform="translate(335.07 1076.211)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="7.572" y="14">Voltaje </tspan></text>
+        <text id="V" transform="translate(435.07 1096.711)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-5.23" y="0">V</tspan></text>
+        <text id="A-2" data-name="A" transform="translate(571.07 1061.711)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-5.383" y="0">A</tspan></text>
+        <text id="L3" transform="translate(365.07 1232.789)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-8.922" y="0">L3</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

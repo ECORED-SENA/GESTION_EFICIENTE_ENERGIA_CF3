@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="300" viewBox="0 0 505 300">
+  <g id="Grupo_84294" data-name="Grupo 84294" transform="translate(-810.285 -897)">
+    <rect id="paper-egg-tray-3325411_1920" width="505" height="300" transform="translate(810.285 897)" fill="#f3f9ff"/>
+    <g id="Grupo_83344" data-name="Grupo 83344" transform="translate(35)">
+      <g id="Grupo_83341" data-name="Grupo 83341" transform="translate(0.402 -0.26)">
+        <path id="Trazado_99887" data-name="Trazado 99887" d="M857.237,386l-55.452,70.831H572V434.345H790.832L828.679,386Z" transform="translate(347.883 661.091)" fill="#265d99" stroke="#12263f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_99888" data-name="Trazado 99888" d="M828.679,393.831l-37.848-48.345H572V323H801.785l55.452,70.831Z" transform="translate(347.883 653.26)" fill="#76c2dd" stroke="#12263f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Grupo_83342" data-name="Grupo 83342" transform="translate(349.809 648.5)">
+        <path id="Trazado_99889" data-name="Trazado 99889" d="M549.5,345.5c-11,15-10,27-10,27" fill="none" stroke="#ee6c4d" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_99890" data-name="Trazado 99890" d="M545.5,342.5l8,6,1-10Z" fill="#ee6c4d" stroke="#ee6c4d" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Grupo_83343" data-name="Grupo 83343" transform="translate(889.285 1073)">
+        <path id="Trazado_99889-2" data-name="Trazado 99889" d="M549.5,372.5c-11-15-10-27-10-27" transform="translate(-539.476 -345.5)" fill="none" stroke="#ee6c4d" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_99890-2" data-name="Trazado 99890" d="M545.5,344.5l8-6,1,10Z" transform="translate(-539.476 -314.5)" fill="#ee6c4d" stroke="#ee6c4d" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <text id="VSEEBECX" transform="translate(830.285 1033.091)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-33.379" y="19">V</tspan><tspan y="19" font-size="13">SEEBECX</tspan></text>
+      <text id="TAMB" transform="translate(970.285 1050.091)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-19.783" y="0">T</tspan><tspan y="0" font-size="13">AMB</tspan></text>
+      <text id="T" transform="translate(1219.285 1050.091)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-5.568" y="0">T</tspan></text>
+      <text id="Metal_1" data-name="Metal 1" transform="translate(1089.285 947.647)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.027" y="17">Metal 1</tspan></text>
+      <text id="Metal_2" data-name="Metal 2" transform="translate(1089.285 1127.015)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.027" y="17">Metal 2</tspan></text>
+    </g>
+  </g>
+</svg>
