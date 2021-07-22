@@ -210,7 +210,7 @@
 
     Separador
 
-    #t_1_2.titulo-segundo
+    #t_1_3.titulo-segundo
       .h4 1.3 Calibración de instrumentos
 
     p.mb-5 El proceso de calibración es importante para los procesos de medición, ya que se podrá confiar en la medida que arroja un instrumento si está correctamente calibrado, pero, ¿qué pasaría si el medidor de la velocidad en un automóvil está descalibrado? Probablemente que un agente de la ley interponga una infracción por exceso de velocidad sin que el conductor se dé cuenta de que estaba en una velocidad no permitida. Otro ejemplo es: ¿qué pasaría si el medidor de energía de una vivienda está descalibrado? Probablemente el cobro que llegue en la factura no es confiable.

@@ -44,12 +44,6 @@ export default {
             titulo: 'Calibración de instrumentos',
             hash: 't_1_3',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
         ],
       },
       {
