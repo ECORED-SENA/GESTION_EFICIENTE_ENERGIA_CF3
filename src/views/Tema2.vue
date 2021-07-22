@@ -35,21 +35,18 @@
     p.mb-5 Para medir la corriente en un circuito, se requiere que dicha corriente circule a través del amperímetro; normalmente esto se conoce como conexión en serie. Por tal razón, es necesario abrir el circuito antes de conectar el amperímetro.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              figure
-                img(src='@/assets/curso/images/tema2/ico_9.svg', alt='Texto que describa la imagen')
+          figure.mt-3
+            img.img-a(src='@/assets/curso/images/tema2/ico_9.svg')
 
           h3.text-center Amperímetro analógico
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-botones.p-3
-          .row.justify-content-center.mb-3
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-botones.p-4
             
           h3.text-center Amperímetro digital
-          p.text-small Es un instrumento que, a diferencia del analógico, no utiliza partes móviles, sino componentes electrónicos para la medición. Adicionalmente posee una pantalla en lugar de una aguja para la lectura de la corriente.
+          p.text-center Es un instrumento que, a diferencia del analógico, no utiliza partes móviles, sino componentes electrónicos para la medición. Adicionalmente posee una pantalla en lugar de una aguja para la lectura de la corriente.
 
       h4.my-5 Pinza amperimétrica
 
@@ -85,9 +82,13 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-                  img(src='@/assets/curso/images/tema2/img_10.svg', alt="", style="width:500px; display:block; margin:0 auto;")
+          p.BorTit Multímetro analógico
+            figure
+              img(src='@/assets/curso/images/tema2/img_10.svg',alt='Multímetro analógico')
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-                  img(src='@/assets/curso/images/tema2/img_11.svg', alt="", style="width:500px; display:block; margin:0 auto;")
+          p.BorTit Multimetro digital
+            figure
+              img(src='@/assets/curso/images/tema2/img_11.svg', alt='Multimetro digital')
 
       p.mb-3 Los hay análogos y digitales, algunos de estos últimos con capacidad de medir valores eficaces de ondas alternas diferentes a la senoidal lo que se conoce como True RMS o valor eficaz verdadero. Los instrumentos análogos y los digitales No True RMS en alterna solo miden correctamente ondas senoidales, porque, según la teoría de circuitos, el valor RMS corresponde en ese caso al valor máximo dividido entre la raíz de dos.
 
@@ -121,54 +122,42 @@
       p Es un instrumento usado para medir la energía eléctrica y como la energía es igual a la potencia por el tiempo, un contador de energía es esencialmente un vatímetro al que se le incluye un elemento acumulador que tiene en cuenta el tiempo. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              figure
-                img(src='@/assets/curso/images/tema2/ico_11.svg',  alt="", style="width:800px; display:block; margin: auto 0.5rem;")
+          figure.mt-2
+            img.img-a(src='@/assets/curso/images/tema2/ico_11.svg')
 
           h3.text-center Contador analógico
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-botones.p-2
-          .row.justify-content-center.mb-3
-
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-botones.p-3
           h3.text-center Contador digital
-          p.text-small.text-center.p-2  En el caso de los contadores digitales ese elemento está compuesto por  el procesador matemático donde se realiza la sumatoria del producto de los datos del muestreo de las formas de onda  de voltaje y corriente y la memoria donde se acumulan dichos valores.
+          p.text-center.p-2  En el caso de los contadores digitales ese elemento está compuesto por  el procesador matemático donde se realiza la sumatoria del producto de los datos del muestreo de las formas de onda  de voltaje y corriente y la memoria donde se acumulan dichos valores.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-botones.p-3
-          .row.justify-content-center.mb-3
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-botones.p-4
       
           h3.text-center Amperímetro analógico
-          p.text-small.text-center  Utiliza internamente un medidor denominado galvanómetro compuesto a su vez por una aguja indicadora, una bobina, dos imanes y un resorte que generan la oscilación de la aguja durante la medición.
+          p.text-center  Utiliza internamente un medidor denominado galvanómetro compuesto a su vez por una aguja indicadora, una bobina, dos imanes y un resorte que generan la oscilación de la aguja durante la medición.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-9
-              figure
-                img(src='@/assets/curso/images/tema2/ico_12.svg', alt="", style="width:110px; display:block; margin: auto 1.5rem;")
+          figure.mt-3
+            img.img-a(src='@/assets/curso/images/tema2/ico_12.svg')
 
           h3.text-center Contador analógico
           
-
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-botones.p-3
-          .row.justify-content-center.mb-3
-
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4       
           h3.text-center Contador analógico
-          p.text-small.text-center  En el caso de los contadores análogos ese elemento es un disco giratorio cuya velocidad angular es proporcional a la potencia y el número de vueltas es proporcional a la velocidad angular (potencia) por el tiempo, es decir a la energía.
+          p.text-center  En el caso de los contadores análogos ese elemento es un disco giratorio cuya velocidad angular es proporcional a la potencia y el número de vueltas es proporcional a la velocidad angular (potencia) por el tiempo, es decir a la energía.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              figure
-                img(src='@/assets/curso/images/tema2/ico_14.svg', alt="", style="width:800px; display:block; margin: auto;")
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-botones.p-1
+          figure.mt-3
+            img.img-a(src='@/assets/curso/images/tema2/ico_14.svg')
 
           h3.text-center Contador digital
 

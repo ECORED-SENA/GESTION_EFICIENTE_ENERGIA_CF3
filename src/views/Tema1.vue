@@ -52,7 +52,9 @@
             p.mt-3 Utiliza los efectos de calentamiento sobre un material. El más común de los instrumentos que utilizan este principio se denomina <b>termocupla.</b> En muchos automóviles se indica en el tablero la temperatura exterior utilizando como sensor principal una termocupla. 
 
           .col-md-6.mb-4.mb-md-0
-                  img(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:900px; display:block; margin:0 auto;")
+            p.BorTit #[strong Figura 2] Medidor energía digital 
+            figure
+              img(src="@/assets/curso/images/tema1/img_6.png" alt='Medidor energía digital')
 
       .py-3.py-md-4(titulo="El principio de funcionamiento")
         .row
@@ -62,7 +64,7 @@
             p.mt-3 El principio de funcionamiento es utilizar las propiedades que tienen dos alambres metálicos (cada uno de diferente material) unidos generalmente con soldadura que generan un voltaje a la salida cuando están expuestos al ambiente o a diferentes temperaturas.
 
           .col-md-6.mb-4.mb-md-0
-                  img(src="@/assets/curso/images/tema1/img_6.svg" alt="", style="width:900px; display:block; margin:0 auto;")
+              img(src="@/assets/curso/images/tema1/img_6.svg")
     h4.mb-5 Instrumentos digitales
 
     .row.justify-content-center.align-items-center.mb-5
@@ -72,7 +74,9 @@
         p.mb-3 Al interior de los instrumentos digitales se utilizan conversores analógicos digitales (ADC, por sus siglas en inglés) para poder hacer un tratamiento a las señales de entrada y poder medir variables físicas que los instrumentos analógicos no podrían realizar.
         
       .col-12.col-md-8.col-lg-6.col-xl-6
-        img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:400px; display:block; margin:0 auto;") 
+        p.BorTit #[strong Figura 2] Medidor energía digital 
+            figure
+              img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.png" alt='Medidor energía digital') 
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12
