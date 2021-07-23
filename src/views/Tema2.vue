@@ -83,7 +83,7 @@
         .row.justify-content-center.mb-4
           .col
             .h2.text-center Vatímetro
-            p.text-center El vatímetro se usa en corriente alterna para medir la potencia promedio, conocida también como potencia activa, la cual es igual al producto de los valores eficaces de corriente y voltaje por el coseno del ángulo de desfase entre ellos. El producto de los valores eficaces de corriente y voltaje por el seno del ángulo de desfase entre ellos se conoce como potencia reactiva y su unidad de medida es el voltio amperio reactivo [VAR]. Utiliza internamente un medidor denominado galvanómetro compuesto a su vez por una aguja indicadora, una bobina, dos imanes y un resorte que generan la oscilación de la aguja durante la medición.
+            p.text-center El vatímetro se usa en corriente alterna para medir la potencia promedio, conocida también como potencia activa, la cual es igual al producto de los valores eficaces de corriente y voltaje por el coseno del ángulo de desfase entre ellos. El producto de los valores eficaces de corriente y voltaje por el seno del ángulo de desfase entre ellos se conoce como potencia reactiva y su unidad de medida es el voltio amperio reactivo [VAR]. 
 
       .col-md.tarjeta.color-acento-botones.p-5
         .row.justify-content-center.mb-4

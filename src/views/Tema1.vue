@@ -96,6 +96,10 @@
                           | Pantalla o display electrónico.
                  
     p.mb-5 Actualmente,  la mayoría de los instrumentos utilizados comercialmente pertenecen a esta categoría, aunque aún podemos ver en muchos de los hogares medidores de energía eléctrica de tipo analógico.
+      br
+      br
+      | #[strong Se invita a averiguar de qué tipo es el medidor de consumo de electricidad en los hogares.]
+
 
     separador
 
@@ -158,7 +162,7 @@
         .col-md-12.mb-4.mb-md-0
           p La causa de este tipo de error es desconocida. A pesar de tener bien calibrado el medidor y cumplir con las condiciones ambientales sugeridas por el fabricante, aún puede existir un error desconocido. La forma correcta de minimizar los efectos de este tipo de errores es medir en repetidas ocasiones y aplicar métodos estadísticos para obtener un valor real.
 
-    p.mb-5  Comprendido el concepto de error, se continúa con la clase de precisión la cual hace referencia al error relativo que, como máximo, puede tener un instrumento de medida. Los valores asignados para la clase de precisión están determinados por normas específicas y para cada instrumento debe estar indicado en su escala. Por lo general, la clase de precisión se simboliza mediante un número que representa el porcentaje de error relativo como, por ejemplo, lo que se presenta en la tabla 1.
+    p.mb-5  Comprendido el concepto de error, se continúa con la clase de precisión la cual hace referencia al error relativo que, como máximo, puede tener un instrumento de medida. Los valores asignados para la clase de precisión están determinados por normas específicas y para cada instrumento debe estar indicado en su escala. Por lo general, la clase de precisión se simboliza mediante un número que representa el porcentaje de error relativo como, por ejemplo, lo que se presenta en la siguiente tabla.
 
     .row.justify-content-center.align-items-center.mt-5
         .col-9
@@ -254,7 +258,7 @@ export default {
       {
         titulo: 'Grupo de Lanzamientos 2',
         texto:
-          'Observa nuestra segundo lanzamiento, ¿qué puedes concluir?. <br><br> De este lanzamiento se puede concluir: <br><br><ol class="lista-ol--cuadro"> <li><div class="lista-ol--cuadro__vineta"><span>1</span></div> Que fue impreciso, porque los puntos amarillos están muy separados unos de otros.</li><li><div class="lista-ol--cuadro__vineta"><span>2</span></div> Que fue exacto, porque porque los puntos están cercanos al centro del tablero </li></ul>',
+          'Observa nuestra segundo lanzamiento, ¿qué puedes concluir?. <br><br> De este lanzamiento se puede concluir: <br><br><ol class="lista-ol--cuadro"> <li><div class="lista-ol--cuadro__vineta"><span>1</span></div> Que fue impreciso, porque los puntos amarillos están muy separados unos de otros.</li><li><div class="lista-ol--cuadro__vineta"><span>2</span></div> Que fue exacto, porque los puntos están cercanos al centro del tablero </li></ul>',
         imagen: require('@/assets/curso/images/tema1/ico_8.svg'),
       },
       {

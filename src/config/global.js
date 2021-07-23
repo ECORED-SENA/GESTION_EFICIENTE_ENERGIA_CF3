@@ -189,18 +189,18 @@ export default {
       },
       {
         nombre: 'Carlos Javier González Cuevas',
-        cargo: 'Experto Técnico',
+        cargo: 'Experto técnico',
         centro:
           'Centro Electricidad Electrónica y Telecomunicaciones - Regional Distrito Capital',
       },
       {
         nombre: 'Marlon Augusto Villamizar Morales',
-        cargo: 'Experto Técnico',
+        cargo: 'Experto técnico',
         centro: 'Global Green Growth Institute (GGGI)',
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
       },
@@ -213,7 +213,7 @@ export default {
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -236,7 +236,7 @@ export default {
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
