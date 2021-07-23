@@ -35,7 +35,7 @@
     p.mb-5 Para medir la corriente en un circuito, se requiere que dicha corriente circule a través del amperímetro; normalmente esto se conoce como conexión en serie. Por tal razón, es necesario abrir el circuito antes de conectar el amperímetro.
 
     .row.justify-content-center.mb-5
-      .col-auto.mb-4.mb-xl-0
+      .col-auto.mb-4.mb-lg-0
         .tarjeta.tarjeta-container.tarjeta-cyan
           .tarjetaContent
             .tarjetaImg
@@ -49,7 +49,7 @@
                 br
                 | Utiliza internamente un medidor denominado galvanómetro compuesto a su vez por una aguja indicadora, una bobina, dos imanes y un resorte que generan la oscilación de la aguja durante la medición.    
 
-      .col-auto.mb-4.mb-xl-0
+      .col-auto.mb-4.mb-lg-0
         .tarjeta.tarjeta-container.tarjeta-cyan
           .tarjetaContent
             .tarjetaImg

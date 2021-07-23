@@ -159,22 +159,17 @@ export default {
   ],
   complementario: [
     {
-      texto: '1.3. Calibración de instrumentos.',
+      texto:
+        '1.3. Calibración de instrumentos. Técnicas de control metrológico S.L. (2021). Certificado de calibración',
       tipo: 'Página web',
       link:
         'https://www.tcmetrologia.com/blog/interpretacion-y-modelo-de-certificado-de-calibracion/',
     },
     {
-      texto: '1.3. Calibración de instrumentos.',
-      tipo:
-        'Acreditación laboratorio de Calibración y Mediciones Industriales SENA.',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://onac.org.co/certificados/16-LAC-016.pdf',
+        '1.3. Calibración de instrumentos. Organismo Nacional de Acreditación de Colombia – ONAC. (2021). Acreditación laboratorio de calibración y mediciones industriales SENA. ',
+      tipo: 'PDF',
+      descarga: '/downloads/16-LAC-016.pdf',
     },
   ],
   creditos: {
@@ -190,13 +185,13 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Carlos Javier González Cuevas',
         cargo: 'Experto Técnico',
         centro:
-          'Distrito Capital. Centro Electricidad Electrónica y Telecomunicaciones',
+          'Centro Electricidad Electrónica y Telecomunicaciones - Regional Distrito Capital',
       },
       {
         nombre: 'Marlon Augusto Villamizar Morales',
@@ -207,18 +202,18 @@ export default {
         nombre: 'Cristian Metaute Medina',
         cargo: 'Diseñador Instruccional',
         centro:
-          'Distrito Capital Centro para la Industria de la Comunicación Gráfica del SENA',
+          'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
         centro:
-          'Distrito Capital - Centro para la Industria de la Comunicación Gráfica del SENA',
+          'Centro para la Industria de la Comunicación Gráfica del SENA - Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
-        centro: 'Distrito Capital Centro de Diseño y Metrología ',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -226,36 +221,30 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Juan Carlos Tapias Rueda',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
