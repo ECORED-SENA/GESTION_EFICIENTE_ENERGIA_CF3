@@ -1,8 +1,8 @@
-# **sena-base-2021 v4.0.0**
+# **Principios de medidas eléctricas**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/GESTION_EFICIENTE_ENERGIA_CF3/](https://ecored-sena.github.io/GESTION_EFICIENTE_ENERGIA_CF3/)
 
 #
 
