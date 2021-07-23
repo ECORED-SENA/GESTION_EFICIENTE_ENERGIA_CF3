@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-lg-12.mb-5
-        img(src="@/assets/curso/images/tema1/intro.png" alt="", style="width:1000px; display:block; margin:0 auto;")
+        img(src="@/assets/curso/images/tema1/intro.png" alt="", style="width:1300px;").m-auto
     
     p.mb-5 Apreciado aprendiz, bienvenido a este momento de aprendizaje relacionado con los principios de las mediciones eléctricas. Para empezar, se sugiere observar el siguiente recurso de aprendizaje. 
     
@@ -20,7 +20,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     
-    p.mb-5 Es momento de iniciar con su aprendizaje. ¡Bienvenido!
+    p.mb-5 Es momento de iniciar con su aprendizaje. #[strong(style="background-color:#76C2DD; padding:3px 5px;") ¡Bienvenido!]
 
 
 </template>

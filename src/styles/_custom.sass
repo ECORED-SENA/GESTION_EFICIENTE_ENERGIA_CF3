@@ -3,9 +3,9 @@
 	&::before
 		background-color: #EE6C4D
 .color-custom
-	background-color: #CCF8FF
+	background-color: #CCF8FF    
 	&::before
-		background-color: #CCF8FF
+		background-color: #76C2DD
 .color-slyder
   background-color: #F6F6F6
 .color-tarjeta
@@ -19,3 +19,55 @@
   margin: auto   
   width: auto
   height: auto
+
+.lista-ul--color li > i:first-of-type
+  position: relative
+  top: 7px
+  margin-right: 10px
+  font-size: 8pt
+  color: #EE6C4D !important
+
+
+// Tarjeta Hover ////////////////////
+.tarjeta-cyan
+  background-color: #76C2DD  
+
+.tarjeta-granada
+  background-color: #EE6C4D 
+
+
+$tarjeta-dimension: 550px
+
+.tarjeta-container
+  position: relative
+  overflow: hidden
+  width: $tarjeta-dimension
+  height: 350px
+  border-radius: 0    
+  
+  .tarjetaContent
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease;
+    .tarjetaImg, .tarjetaTxt 
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      width: $tarjeta-dimension
+      height: 350px
+      padding: 2rem
+    .tarjetaImg     
+    .tarjetaTxt      
+      text-align: center
+      background-color: #EE6C4D      
+
+  &:hover
+    .tarjetaContent
+      top: -350px
+
+.hr_blank
+  width: 100%
+  height: 3px
+  margin: 2rem 0

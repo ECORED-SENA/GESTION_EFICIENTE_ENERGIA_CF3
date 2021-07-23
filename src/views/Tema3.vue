@@ -9,24 +9,24 @@
     
     .row.justify-content-center.align-items-center.my-5
       .col-12.col-lg-12.mb-3
-        img(src="@/assets/curso/images/tema3/img_12.svg" alt="", style="width:1000px; display:block; margin:0 auto;")
+        img(src="@/assets/curso/images/tema3/img_12.svg" alt="", style="width:1300px; display:block; margin:0 auto;")
 
     p.mb-5 En los circuitos trifásicos las magnitudes de corriente y voltaje se miden de forma monofásica, es decir, se usan los amperímetros y voltímetros monofásicos para medir las magnitudes de fase y las de línea de forma individual y acorde con la topología del circuito (Y o Δ). En las siguientes figuras se muestra un ejemplo de cada caso.
 
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 1] Ejemplo 1 
+          p.BorTit Ejemplo 1 
             figure
               img(src='@/assets/curso/images/tema3/img_13.svg', alt='Ejemplo 1')
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 2] Ejemplo 2  
+          p.BorTit Ejemplo 2  
             figure
               img(src='@/assets/curso/images/tema3/img_14.svg', alt='Ejemplo 2')
     
     Separador 
 
     #t_3_1.titulo-segundo
-      .h4 3.1 Instrumentos trifásicos
+      .h2 3.1 Instrumentos trifásicos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-6.col-xl-6
@@ -40,13 +40,13 @@
     Separador
 
     #t_3_2.titulo-segundo
-      .h4 3.2 Diagramas de conexión
+      .h2 3.2 Diagramas de conexión
 
     p.mb-5 La forma de conexión de los vatímetros y contadores es la misma en cada caso, lo único que cambia es el instrumento. Cuando las magnitudes de los voltajes y corrientes están dentro del rango de las magnitudes nominales del instrumento, las conexiones de las bobinas de tensión y de corriente se pueden realizar de forma directa y en este caso la lectura del instrumento es igual a la cantidad medida. A este método de conexión se le conoce como medida directa, como se muestra en la siguiente figura.
 
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-8.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 3] Medida directa
+          p.BorTit  Medida directa
             figure
               img(src='@/assets/curso/images/tema3/img_16.svg', alt='Medida directa')
     
@@ -54,7 +54,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-8.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 4] Medida semidirecta
+          p.BorTit Medida semidirecta
             figure
               img(src='@/assets/curso/images/tema3/img_17.svg', alt='Medida semidirecta')
 
@@ -62,7 +62,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-8.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 5] Medida indirecta
+          p.BorTit Medida indirecta
             figure
               img(src='@/assets/curso/images/tema3/img_18.svg', alt='Medida indirecta')
     
@@ -72,7 +72,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-6.col-lg-8.mb-4.mb-lg-0
-          p.BorTit #[strong Figura 6] Conexion Aron 
+          p.BorTit Conexion Aron 
           figure
             img(src='@/assets/curso/images/tema3/img_19.svg', alt='Conexion Aron')
 
