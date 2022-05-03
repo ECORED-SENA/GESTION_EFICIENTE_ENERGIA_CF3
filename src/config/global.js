@@ -169,7 +169,7 @@ export default {
       texto:
         '1.3. Calibración de instrumentos. Organismo Nacional de Acreditación de Colombia – ONAC. (2021). Acreditación laboratorio de calibración y mediciones industriales SENA. ',
       tipo: 'PDF',
-      descarga: '/downloads/16-LAC-016.pdf',
+      descarga: 'downloads/16-LAC-016.pdf',
     },
   ],
   creditos: {
